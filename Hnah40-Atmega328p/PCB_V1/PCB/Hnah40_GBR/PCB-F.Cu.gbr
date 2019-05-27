@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.0.2)-1*
-G04 #@! TF.CreationDate,2019-05-12T20:42:31+07:00*
+G04 #@! TF.CreationDate,2019-05-27T18:19:19+07:00*
 G04 #@! TF.ProjectId,PCB,5043422e-6b69-4636-9164-5f7063625858,a*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Copper,L1,Top*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.0.2)-1) date 5/12/2019 8:42:31 PM*
+G04 Created by KiCad (PCBNEW (5.0.2)-1) date 5/27/2019 6:19:19 PM*
 %MOMM*%
 %LPD*%
 G01*
@@ -54,7 +54,7 @@ G04 #@! TA.AperFunction,ViaPad*
 %ADD23C,0.600000*%
 G04 #@! TD*
 G04 #@! TA.AperFunction,ViaPad*
-%ADD24C,1.0000*%
+%ADD24C,0.460000*%
 G04 #@! TD*
 G04 #@! TA.AperFunction,ViaPad*
 %ADD25C,1.400000*%
@@ -69,9 +69,9 @@ G04 #@! TA.AperFunction,Conductor*
 %ADD28C,0.150000*%
 G04 #@! TD*
 G04 #@! TA.AperFunction,Conductor*
-%ADD29C,0.200000*%
+%ADD29C,0.100000*%
 G04 #@! TD*
-%ADD30C,0.200000*%
+%ADD30C,0.100000*%
 G04 #@! TA.AperFunction,Conductor*
 %ADD31C,0.025400*%
 G04 #@! TD*
@@ -3696,6 +3696,7 @@ D25*
 X218294435Y-9627670D03*
 D23*
 X5734535Y-9180000D03*
+X40765755Y-13911630D03*
 G04 #@! TO.N,/ROW0*
 X16740000Y-23200000D03*
 G04 #@! TO.N,/ROW1*
