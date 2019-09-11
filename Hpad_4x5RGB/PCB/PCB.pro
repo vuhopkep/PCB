@@ -1,6 +1,6 @@
-update=8/10/2019 8:42:39 PM
+update=8/28/2019 9:54:21 PM
 version=1
-last_client=pcbnew
+last_client=kicad
 [general]
 version=1
 RootSch=
@@ -12,10 +12,25 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
 LastNetListRead=PCB.net
+LastSTEPExportPath=PCB.step
+LastIDFExportPath=
+LastVRMLExportPath=
+LastSpecctraDSNExportPath=
+LastGenCADExportPath=
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
@@ -28,6 +43,7 @@ MinViaDrill=0.3
 MinMicroViaDiameter=0.2
 MinMicroViaDrill=0.09999999999999999
 MinHoleToHole=0.25
+CopperEdgeClearance=0.01
 TrackWidth1=0.2
 ViaDiameter1=0.45
 ViaDrill1=0.3
@@ -48,7 +64,7 @@ CopperTextItalic=0
 CopperTextUpright=1
 EdgeCutLineWidth=0.05
 CourtyardLineWidth=0.05
-OthersLineWidth=0.15
+OthersLineWidth=0.09999999999999999
 OthersTextSizeV=1
 OthersTextSizeH=1
 OthersTextSizeThickness=0.15
@@ -57,7 +73,7 @@ OthersTextUpright=1
 SolderMaskClearance=0.09999999999999999
 SolderMaskMinWidth=0.09999999999999999
 SolderPasteClearance=0
-SolderPasteRatio=-0
+SolderPasteRatio=0
 [pcbnew/Layer.F.Cu]
 Name=F.Cu
 Type=0
